@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699763734542",
+    "firebase_url": "https://fribaseuserlogin.firebaseio.com",
+    "project_id": "fribaseuserlogin",
+    "storage_bucket": "fribaseuserlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699763734542:android:09e9d98a79a6a348",
+        "android_client_info": {
+          "package_name": "Lab01.off.firbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699763734542-bq47d0ch2bjd5fc6u7j1572sue344ae9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Lab01.off.firbase",
+            "certificate_hash": "78ca8215d212bad2d13f5466b3d23824c38cebbc"
+          }
+        },
+        {
+          "client_id": "699763734542-ck470k6av0lim014b6sk3eto8j1jmk1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxOIHLVzKYFKfFOjyO8FaOQF4pEK14ChY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699763734542-ck470k6av0lim014b6sk3eto8j1jmk1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

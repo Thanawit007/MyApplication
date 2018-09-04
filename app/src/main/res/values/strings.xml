@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_contro_switch">ControSwitch</string>
+    <string name="title_activity_contor_switch">ContorSwitch</string>
+</resources>
